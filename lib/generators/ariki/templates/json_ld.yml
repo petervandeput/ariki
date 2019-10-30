@@ -1,0 +1,22 @@
+# config/json-ld.yml
+#default settings for generating structured data JSON+LD schemas
+#for website information in JSON+LD schema
+website_name: "Template website"
+website_url: "https://yourdomain.com"
+website_potential_action : "https://yourdomain.com/search"
+website_query_input: "q="
+
+
+#company information
+organization_name: "Your company name"
+organization_founder: "Founder name"
+organization_address: "Full addrress"
+organization_email: "info@yourdomain.com"
+organization_url: "https://yourdomain.com"
+organization_logo_url: "https://yoursite.com/wp-content/uploads/YourSite_Logo_300.png"
+organization_same_as_urls: ["https://facebook.com","https://twitter.com"]
+#blog
+blog_author: "John Doe"
+blog_publisher: "John Doe"
+blog_editor: "John Doe"
+blog_genre: "information"
